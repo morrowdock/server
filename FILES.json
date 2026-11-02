@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-02",
+  "status": "private GitHub working candidate; public release not authorized",
+  "files": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug.md",
+      "sha256": "fa6bcc8cfdfe1e97cc2e0b530eae03d351ebe58c505736307d37086c82e50781"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/course.md",
+      "sha256": "1e50725dcdfdf0f6ba2a4afbf147a76d2d6539cf03039e4bd23cb86188b2a473"
+    },
+    {
+      "path": ".github/pull_request_template.md",
+      "sha256": "a2147908156e05a52b6d63be3587bede7b9465a5d28d8e12419c2b46b876954c"
+    },
+    {
+      "path": ".github/workflows/ci.yml",
+      "sha256": "91ccc882e396f19bc65cc7685a70000f1f12c9ce9a126e363f113c7eafef97a3"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "fa3789407a8137a8cd505b86494926534dfe71fcd64ce86c7a3fb5253867c6d0"
+    },
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "sha256": "ed7b9bcafcfd5a06d85dd21ae688a06499acde237874c20a265b3a77d49efc8b"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "b061a7cc5473e063aad0efe8f2c4ad90fe1681383632dfe0b902a6e3dabd3f51"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "35ae9645dc6327c0f8aca9643d615f2b96a8ab9be9c8ddc71beddd27eb53b343"
+    },
+    {
+      "path": "README.md",
+      "sha256": "0f0bf0ef5ff75afdef2244d16f20966bf53174272354e9bb21db1bdbacb62e5c"
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "c5de7c092c7eddf66c62a311a34e059fedbc95224badacc1231ea016eaf60197"
+    },
+    {
+      "path": "THIRD-PARTY.md",
+      "sha256": "902d30a8a83dd1103b634fb05623f57acdf2f531c6e7d8c8963b6fd03d1d0826"
+    },
+    {
+      "path": "TRADEMARKS.md",
+      "sha256": "bace4b82f63e1523c3c0edb3fcf4f941e330a4543f90e70ede815ded7510861c"
+    },
+    {
+      "path": "api/README.md",
+      "sha256": "7182b3e0330f7ac2adf972f7f4b7924431e1c378de503baf2315169c144f742b"
+    },
+    {
+      "path": "api/openapi.json",
+      "sha256": "42fb3f59b871da2cf569d53289c857cd7e3ad622ff7e2cf7a49bd41cd9c10b20"
+    },
+    {
+      "path": "prompts/course-generation.md",
+      "sha256": "59fde40dc048ea1c9a7104d593b7e74303ce1e31736f0e4a6dd19918919a432d"
+    },
+    {
+      "path": "prompts/grading.md",
+      "sha256": "aaa6dd9b321ae4bfabbefc4f037ddb08982b11e129f98600f2dbeab92732d6a0"
+    },
+    {
+      "path": "tests/test_contract.py",
+      "sha256": "fb207c987ac96c005eae1e768cf71e8018459f8d4f1c0f55b458ea9137d63a8a"
+    },
+    {
+      "path": "tools/check_dco.py",
+      "sha256": "0960ae93203836cd70328402153220ee52522c11540e531a720977ecaf5ef494"
+    }
+  ]
+}
