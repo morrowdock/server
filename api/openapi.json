@@ -3,7 +3,7 @@
   "info": {
     "title": "Morrowdock Server proposed Plus API",
     "version": "0.1.0",
-    "description": "Private scaffold; all runtime endpoints pending."
+    "description": "Early-preview scaffold; all runtime endpoints pending."
   },
   "security": [
     {

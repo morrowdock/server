@@ -1,6 +1,7 @@
 {
-  "date": "2026-11-02",
-  "status": "private GitHub working candidate; public release not authorized",
+  "date": "2026-11-11",
+  "status": "early-preview candidate inventory; release gates recorded 2026-11-11; visibility change is owner/coordinator-only",
+  "note": "Lists every tracked file except FILES.json itself.",
   "files": [
     {
       "path": ".github/ISSUE_TEMPLATE/bug.md",
@@ -16,7 +17,7 @@
     },
     {
       "path": ".github/workflows/ci.yml",
-      "sha256": "91ccc882e396f19bc65cc7685a70000f1f12c9ce9a126e363f113c7eafef97a3"
+      "sha256": "42e550dab8cc6159e6c385a4746a1b176af12b16855f0ffd55c049eca3fa275c"
     },
     {
       "path": ".gitignore",
@@ -24,11 +25,15 @@
     },
     {
       "path": "CODE_OF_CONDUCT.md",
-      "sha256": "ed7b9bcafcfd5a06d85dd21ae688a06499acde237874c20a265b3a77d49efc8b"
+      "sha256": "a95cbeea0b79375cef0479d39f1fcc6fdd9db0dd97b2a3ae6d8d62f47d284ec2"
     },
     {
       "path": "CONTRIBUTING.md",
-      "sha256": "b061a7cc5473e063aad0efe8f2c4ad90fe1681383632dfe0b902a6e3dabd3f51"
+      "sha256": "4e46a482c19348dbc696f3493dd4d08b5ace18c6fb57c64e237c31fe5a417d87"
+    },
+    {
+      "path": "DCO",
+      "sha256": "f7ac75b443f4ca16b503241344b41aeff9503b0c30bedc2b119551d83cb0fa90"
     },
     {
       "path": "LICENSE",
@@ -36,23 +41,23 @@
     },
     {
       "path": "NOTICE",
-      "sha256": "35ae9645dc6327c0f8aca9643d615f2b96a8ab9be9c8ddc71beddd27eb53b343"
+      "sha256": "cfb508851046314f30c79696f10b11c3592611072cb596595be5763f9e677f4a"
     },
     {
       "path": "README.md",
-      "sha256": "0f0bf0ef5ff75afdef2244d16f20966bf53174272354e9bb21db1bdbacb62e5c"
+      "sha256": "aa0a4beeb5ba373f02f456b84a06de00377eb3848df350113f9f35429338d7c3"
     },
     {
       "path": "SECURITY.md",
-      "sha256": "c5de7c092c7eddf66c62a311a34e059fedbc95224badacc1231ea016eaf60197"
+      "sha256": "c4a97eb96a0fd75196aae0968309f26a2e94d4d0c586bdd72745b683fae956bd"
     },
     {
       "path": "THIRD-PARTY.md",
-      "sha256": "902d30a8a83dd1103b634fb05623f57acdf2f531c6e7d8c8963b6fd03d1d0826"
+      "sha256": "f7bc17adcf4099c2fd75f07ae90fd248a85204eb57cc68971a7de2495710cbf4"
     },
     {
       "path": "TRADEMARKS.md",
-      "sha256": "bace4b82f63e1523c3c0edb3fcf4f941e330a4543f90e70ede815ded7510861c"
+      "sha256": "1a2c738e7ccf32f4f3165eac722c0fa277f11e20b229da7101422053875ba322"
     },
     {
       "path": "api/README.md",
@@ -60,7 +65,7 @@
     },
     {
       "path": "api/openapi.json",
-      "sha256": "42fb3f59b871da2cf569d53289c857cd7e3ad622ff7e2cf7a49bd41cd9c10b20"
+      "sha256": "c552c310d89ae7ed452659e95ce022136645a7f73913383dd47a300ffa856bcd"
     },
     {
       "path": "prompts/course-generation.md",
@@ -76,7 +81,7 @@
     },
     {
       "path": "tools/check_dco.py",
-      "sha256": "0960ae93203836cd70328402153220ee52522c11540e531a720977ecaf5ef494"
+      "sha256": "d6f3693eebbc82a50402b89e4cbab9c3f8c73deae45fc30109cb4b10cfe1141f"
     }
   ]
 }

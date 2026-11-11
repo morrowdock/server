@@ -1,6 +1,6 @@
 # Morrowdock Server
 
-PRIVATE WORKING REPOSITORY. Apache-2.0 contract-and-prompts scaffold; no runnable server, Docker image, account service, provider integration or sandbox worker yet. Do not treat contract checks as runtime acceptance.
+Early preview. Apache-2.0 ([LICENSE](LICENSE), [NOTICE](NOTICE)) contract-and-prompts scaffold; names, mascot and logos are not licensed ([TRADEMARKS.md](TRADEMARKS.md)); no runnable server, Docker image, account service, provider integration or sandbox worker yet. Do not treat contract checks as runtime acceptance.
 
 Target: a self-hosted implementation of the same public Plus API for sync, course-pack generation/grading, isolated code execution, a pinned catalog mirror and waitlist-free single-user/small-group accounts. Operators supply OpenAI, Anthropic, OpenRouter, Gemini keys or an Ollama model endpoint. No official subscription, hosted credits, premium packs or private package is required. Model/backend quality and features can differ.
 
